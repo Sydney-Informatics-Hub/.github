@@ -1,20 +1,19 @@
 ## Sydney Informatics Hub
 
-A Core Research Facility of The University of Sydney.
+The [Sydney Informatics Hub](https://www.sydney.edu.au/sydney-informatics-hub) is a Core Research Facility of [The University of Sydney](https://www.sydney.edu.au/).
 
 We are:
 
-- 👩‍💻 Data scientists 👨‍💻
-- 👨‍💻 Software engineers 👩‍💻
+- 👩‍💻 Data scientists and Machine learning engineers 🤖
 - 🧬 Bioinformaticians 🧬
 - 🖥️ High performance computing experts ☁️
-- 🤖 Machine learning engineers 🤖
+- 👨‍💻 Software engineers 👩‍💻
 
 And together we work towards
 
 ## *Enabling excellence in data and compute intensive research*
 
-We provide support, training, and expertise in research data management, statistics, data science, software engineering, simulation, visualisation, bioinformatics, and research computing.
+We provide support, training, and expertise in statistics, data science, artificial intelligence, bioinformatics, software engineering, simulation, visualisation, and research computing.
 
 We've:
 
