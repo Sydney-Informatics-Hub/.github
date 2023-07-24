@@ -8,6 +8,7 @@ We are:
 - 🧬 Bioinformaticians 🧬
 - 🖥️ High performance computing experts ☁️
 - 👨‍💻 Software engineers 👩‍💻
+- :heavy_division_sign: Statisticians :heavy_multiplication_x:
 
 And together we work towards
 
