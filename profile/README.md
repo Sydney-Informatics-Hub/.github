@@ -14,7 +14,7 @@ We provide support, training, and expertise in statistics, data science, artific
 
 We've:
 
-- Created [reusable workflows for bioinformatics](https://github.com/Sydney-Informatics-Hub/Bioinformatics) on Australia's national supercompute resources & commercial cloud, an an official node of the [Australian Biocommons](https://www.biocommons.org.au/) 🔬 🧬
+- Created [reusable workflows for bioinformatics](https://github.com/Sydney-Informatics-Hub/Bioinformatics) on Australia's national supercompute resources & commercial cloud, as an official node of the [Australian Biocommons](https://www.biocommons.org.au/) 🔬 🧬
 - Built an [open-source platform for plant images in agricultural crops](https://weed-ai.sydney.edu.au/) to support robotic weed-killing using AI 🌱🤖 🧑‍🌾
 - Created text analysis tools for Digital Humanities researchers through the [Australian Text Analytics Platform](https://www.atap.edu.au/) and the [Language Data Commons of Australia](https://www.ldaca.edu.au/)
 - Developed state-of-the-art open-source visual AI models for [detecting and identifying native australian wildlife in camera trap images](https://marsupial.ai/) 📸 🦊 🐨
