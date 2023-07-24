@@ -1,4 +1,4 @@
-<img src="profile/sydney_informatics_hub_logo.png" align="right" width="400px"/>
+<img src="https://github.com/Sydney-Informatics-Hub/.github/blob/main/profile/sydney_informatics_hub_logo.png" align="right" width="400px"/>
 
 ## Sydney Informatics Hub
 
