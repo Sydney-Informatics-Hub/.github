@@ -21,6 +21,7 @@ We've:
 - [Created a tool to collect geospatial data easily]([https://github.com/Sydney-Informatics-Hub/AgReFed-DataHarvester/](https://sydney-informatics-hub.github.io/geodata-harvester/)) ([demo app here](https://huggingface.co/spaces/SIH/geodata-harvester-app)), and then [build spatio-temporal models on it](https://www.agrefed.org.au/cb_pages/agrefed_mechanistic_and_data-driven_models.php) so that farmers can make better decisions 🛰️🌱 👨🏿‍🌾
 - Engineered a [radio-astronomy pipeline to detect variable and slow transient light sources](https://www.vast-survey.org/vast-pipeline/) using the Australian Square Kilometre Array Pathfinder 📡 🌞 🌌
 - Optimised code for simulating plate tectonics, to better understand how our Earth forms! 🌏 🌋 
-- Used machine learning models and echocardiogram data to improve cardiology diagnostics 🩺 🩻 🏩 
+- Used machine learning models and echocardiogram data to improve cardiology diagnostics 🩺 🩻 🏩
+- Put up freely available [Statistical resources and training materials](https://sydney-informatics-hub.github.io/stats-resources/workshops_and_workflows.html) 📚🏛️
 
 And that's just the tip of the iceberg. Find out more about the many ways we have enabled research and the exciting things we are working on at our website & public facing GitHub.
