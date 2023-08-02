@@ -24,4 +24,4 @@ We've:
 - Used machine learning models and echocardiogram data to improve cardiology diagnostics 🩺 🩻 🏩
 - Put up freely available [Statistical resources and training materials](https://sydney-informatics-hub.github.io/stats-resources/workshops_and_workflows.html) 📚🏛️
 
-And that's just the tip of the iceberg. Find out more about the many ways we have enabled research and the exciting things we are working on at our website & public facing GitHub.
+And that's just the tip of the iceberg. Find out more about the many ways we have enabled research and the exciting things we are working on at our website.
