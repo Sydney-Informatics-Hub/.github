@@ -29,3 +29,14 @@ We've:
 And that's just the tip of the iceberg. Find out more about the many ways we have enabled research and the exciting things we are working on at our website. 
 
 Check out our live demos on [Huggingface](https://huggingface.co/SIH).
+
+
+      
+
+
+### Official Node of:
+<div>
+<img alt="Australian Biocommons" src="https://www.sydney.edu.au/content/dam/brand-and-marketing-assets/logos/biocommons.jpeg" align="left" width="300px"/>
+<img alt="Australian Plant Phenomics Network" src="https://www.sydney.edu.au/content/dam/corporate/images/research/facilities/sydney-informatics-hub/appn-logo-hi-res.jpg" align="center" width="300px"/>
+<img alt="Visitor Stats" src="https://widgetbite.com/stats/Sydney-Informatics-Hub" align="right"/>
+</div>
