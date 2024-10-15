@@ -1,14 +1,14 @@
 <img src="https://github.com/Sydney-Informatics-Hub/.github/blob/main/profile/sydney_informatics_hub_logo.png" align="right" width="400px"/>
 
-## Sydney Informatics Hub
+<h1> Sydney Informatics Hub </h1>
 
 The [Sydney Informatics Hub](https://www.sydney.edu.au/sydney-informatics-hub) is a Core Research Facility of [The University of Sydney](https://www.sydney.edu.au/). We work towards enabling excellence in data and compute intensive research. We are:
 
 - 👩‍💻 Data scientists and Machine learning engineers 🤖
-- 🧬 Bioinformaticians 🧬
+- [🧬 Bioinformaticians 🧬](https://github.com/Sydney-Informatics-Hub/Bioinformatics)
 - 🖥️ High performance computing experts ☁️
 - 👨‍💻 Software engineers 👩‍💻
-- :heavy_division_sign: Statisticians :heavy_multiplication_x:
+- [:heavy_division_sign: Statisticians :heavy_multiplication_x:](https://sydney-informatics-hub.github.io/stats-resources/workshops_and_workflows.html)
 
 We provide support, training, and expertise in statistics, data science, artificial intelligence, bioinformatics, software engineering, simulation, visualisation, and research computing.
 
