@@ -1,6 +1,6 @@
-<img src="https://github.com/Sydney-Informatics-Hub/.github/blob/main/profile/sydney_informatics_hub_logo.png" align="right" width="400px"/>
+<img src="https://raw.githubusercontent.com/Sydney-Informatics-Hub/.github/refs/heads/main/profile/sydney_informatics_hub_logo.png" align="right" width="350px"/>
 
-<h1> Sydney Informatics Hub </h1>
+# Sydney Informatics Hub
 
 The [Sydney Informatics Hub](https://www.sydney.edu.au/sydney-informatics-hub) is a Core Research Facility of [The University of Sydney](https://www.sydney.edu.au/). We work towards enabling excellence in data and compute intensive research. We are:
 
