@@ -8,7 +8,7 @@ The [Sydney Informatics Hub](https://www.sydney.edu.au/sydney-informatics-hub) i
 - [🧬 Bioinformaticians 🧬](https://github.com/Sydney-Informatics-Hub/Bioinformatics)
 - 🖥️ High performance computing experts ☁️
 - 👨‍💻 Software engineers 👩‍💻
-- [:heavy_division_sign: Statisticians :heavy_multiplication_x:](https://sydney-informatics-hub.github.io/stats-resources/workshops_and_workflows.html)
+- [:heavy_division_sign: Statisticians :heavy_multiplication_x:](https://sydney-informatics-hub.github.io/stats-resources/)
 
 We provide support, training, and expertise in statistics, data science, artificial intelligence, bioinformatics, software engineering, simulation, visualisation, and research computing.
 
@@ -23,7 +23,7 @@ We've:
 - Engineered a [radio-astronomy pipeline to detect variable and slow transient light sources](https://www.vast-survey.org/vast-pipeline/) using the Australian Square Kilometre Array Pathfinder 📡 🌞 🌌
 - Optimised code for simulating plate tectonics, to better understand how our Earth forms! 🌏 🌋 
 - Used machine learning models and echocardiogram data to improve cardiology diagnostics 🩺 🩻 🏩
-- Put up freely available [Statistical resources and training materials](https://sydney-informatics-hub.github.io/stats-resources/workshops_and_workflows.html) 📚🏛️
+- Put up freely available [Statistical resources and training materials](https://sydney-informatics-hub.github.io/stats-resources/) 📚🏛️
 - Helped researchers at the University of Sydney with accessing and running their code on our supercomputer Artemis, with over 191 million CPU hours or 21,000 CPU years of compute run over the last 6 years.
 
 And that's just the tip of the iceberg. Find out more about the many ways we have enabled research and the exciting things we are working on at our website. 
