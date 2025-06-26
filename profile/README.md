@@ -4,9 +4,9 @@
 
 The [Sydney Informatics Hub](https://www.sydney.edu.au/sydney-informatics-hub) is a Core Research Facility of [The University of Sydney](https://www.sydney.edu.au/). We work towards enabling excellence in data and compute intensive research. We are:
 
-- 👩‍💻 Data scientists and Machine learning engineers 🤖
+- 👩‍💻 Data scientists and machine learning engineers 🤖
 - [🧬 Bioinformaticians 🧬](https://github.com/Sydney-Informatics-Hub/Bioinformatics)
-- 🖥️ High performance computing experts ☁️
+- [🖥️ High performance computing experts ☁️](https://sydneyuni.atlassian.net/wiki/spaces/RC/overview?homepageId=173932782)
 - 👨‍💻 Software engineers 👩‍💻
 - [:heavy_division_sign: Statisticians :heavy_multiplication_x:](https://sydney-informatics-hub.github.io/stats-resources/)
 
@@ -24,9 +24,6 @@ We've:
 - Optimised code for simulating plate tectonics, to better understand how our Earth forms! 🌏 🌋 
 - Used machine learning models and echocardiogram data to improve cardiology diagnostics 🩺 🩻 🏩
 - Put up freely available [Statistical resources and training materials](https://sydney-informatics-hub.github.io/stats-resources/) 📚🏛️
-- Helped researchers at the University of Sydney with accessing and running their code on our supercomputer Artemis, with over 191 million CPU hours or 21,000 CPU years of compute run over the last 6 years.
-
-And that's just the tip of the iceberg. Find out more about the many ways we have enabled research and the exciting things we are working on at our website. 
 
 Check out our live demos on [Huggingface](https://huggingface.co/SIH).
 
